@@ -33,9 +33,15 @@ Grundlagen OpenGL
 *** Versionskontrollsystem Git (https://git-scm.com/)
 *** GVim (https://packages.debian.org/bullseye/vim-gtk3)
 
+* Schulungsunterlagen
+** Sourcecode und Format: Asciidoc (https://asciidoc.org/)
+** Github-Repository (https://github.com/hofmannedv/training-opengl)
+
 * Programmcode
-** Github-Repository
-** eigenes Projekt
+** Github-Repository (https://github.com/hofmannedv/training-python/tree/master/opengl)
+** eigenes Projekt zum Ausprobieren
+*** Zeit pro Tag: 1h
+*** Vorstellung der Umsetzung am letzten Kurstag
 
 == OpenGL im Überblick ==
 
