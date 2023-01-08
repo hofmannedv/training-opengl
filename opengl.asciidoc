@@ -45,11 +45,57 @@ Grundlagen OpenGL
 
 == OpenGL im Überblick ==
 
-* Begriff
-* Historie
-* Hintergründe
-* Einsatzfeld
-* prominente Beispiele
+=== Begriff ===
+
+* OpenGL kürzt 'Open Graphics Library' ab
+
+* bezeichnet die Spezifikation einer plattform- und
+programmiersprachenübergreifenden API zur Entwicklung von 2D- und
+3D-Computergrafikanwendungen (Vektorgrafik)
+
+* Umfang: 
+** Standard: etwa 250 Befehle, die die Darstellung komplexer 3D-Szenen in Echtzeit erlauben
+** herstellerspezifische Erweiterungen möglich
+
+* Alternativen und Konkurrenzentwicklungen (Auswahl):
+** Web Graphics Library (WebGL) auf der Basis von JavaScript für den
+Webbrowser (https://www.khronos.org/webgl/)
+** DirectX (https://en.wikipedia.org/wiki/DirectX)
+** Vulkan (https://www.vulkan.org/)
+** Allegro (https://liballeg.org/)
+
+=== Historie ===
+
+* Ursprung und Basis: IRIS GL von SGI (1992)
+
+* Koordinator zur Weiterentwicklung seit 2006: Khronos Group (https://www.khronos.org/)
+
+* Versionsgeschichte: https://de.wikipedia.org/wiki/OpenGL#Versionsgeschichte
+
+* Nachfolger:
+** Vulkan (https://www.vulkan.org/)
+** Vergleich zwischen OpenGL und Vulkan (https://www.educba.com/opengl-vs-vulkan/)
+
+=== Einsatzfeld ===
+
+* Gestaltung von 3D-Szenen in Echtzeit
+
+* Rendering von Objekten auf der Basis von geometrischen Formen
+(Punkte, Linien, Rechtecke, Dreiecke, Polygone)
+
+* Verwendung von Farben (RGBA) und Texturen (Abbilden von Grafiken auf
+geometrischen Objekten)
+
+* Objekttransformationen -- Drehen und Skalieren von einzelnen Objekten
+und gruppierten Objekten
+
+* Kamerabewegungen
+
+=== Prominente Beispiele ===
+
+* Liste von Spielen, die OpenGL benutzen (https://www.pcgamingwiki.com/wiki/List_of_OpenGL_games)
+
+
 * Referenzmaterial
 * Aufbau
 ** Fixed Pipeline
