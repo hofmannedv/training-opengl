@@ -14,7 +14,9 @@ Grundlagen OpenGL
 
 == Ablauf der Schulung ==
 
-* Willkommen im Kurs, Vorstellungsrunde
+=== Willkommen im Kurs === 
+
+* Vorstellungsrunde
 
 * Kursablauf
 ** Zeiten und Pausen
@@ -23,19 +25,23 @@ Grundlagen OpenGL
 
 * Vorkenntnisse, Ziele und Erwartungen
 
-* Systemumgebung und genutzte Software im Kurs
-** VirtualBox mit Debian GNU/Linux (https://www.debian.org/)
-** installiert sind darin: 
-*** Python 3 (https://www.python.org/)
-*** Bibliothek PyGame (https://www.pygame.org/wiki/about)
-*** Bibliothek OpenGL für Python (https://pyopengl.sourceforge.net/)
-*** Bibliothek Free OpenGL Utility Toolkit (FreeGlut) (https://freeglut.sourceforge.net/)
-*** Versionskontrollsystem Git (https://git-scm.com/)
-*** GVim (https://packages.debian.org/bullseye/vim-gtk3)
+=== Systemumgebung und genutzte Software im Kurs ===
 
-* Schulungsunterlagen
-** Sourcecode und Format: Asciidoc (https://asciidoc.org/)
-** Github-Repository (https://github.com/hofmannedv/training-opengl)
+* VirtualBox mit Debian GNU/Linux (https://www.debian.org/)
+
+* installiert sind darin: 
+** Python 3 (https://www.python.org/)
+** Bibliothek PyGame (https://www.pygame.org/wiki/about)
+** Bibliothek OpenGL für Python (https://pyopengl.sourceforge.net/)
+** Bibliothek Free OpenGL Utility Toolkit (FreeGlut) (https://freeglut.sourceforge.net/)
+** Versionskontrollsystem Git (https://git-scm.com/)
+** GVim (https://packages.debian.org/bullseye/vim-gtk3)
+
+=== Schulungsunterlagen ===
+
+* Sourcecode und Format: Asciidoc (https://asciidoc.org/)
+
+* Github-Repository (https://github.com/hofmannedv/training-opengl)
 
 * Programmcode
 ** Github-Repository (https://github.com/hofmannedv/training-python/tree/master/opengl)
@@ -123,21 +129,53 @@ und gruppierten Objekten
 
 == OpenGL-Denkwelt ==
 
+=== Ausgabe und Darstellung ===
+
 * Ausgabefenster
+
 * Auflösung
+
 * Darstellungsmodus
 ** orthographisch
 ** perspektivisch
-* Interaktion
-** Fenster schließen ohne ESC
-** Tastaturintegration
-** Fenster schließen mit ESC
-** Bewegungstasten
-* OpenGL-Kommandos
-** Initialisierung der Ausgabeumgebung
-** Grundobjekte
-*** Punkte
-*** Linie
-*** Quadrat
-*** Polygon
-*** Dreiecke
+
+=== Interaktion ===
+
+* Fenster schließen mit der Maus
+
+* Tastaturintegration
+** Fenster schließen mit Escape-Taste
+** Einbinden der Bewegungstasten
+
+=== OpenGL-Kommandos ===
+
+* Initialisierung der Ausgabeumgebung
+
+=== Grundobjekte ===
+
+* Punkte
+* Linie
+* Quadrat
+* Polygon
+* Dreiecke
+
+=== Farben ===
+
+* Farbmodelle
+* Farben definieren und benutzen
+
+=== Achsen und 3D-Welt ===
+
+* Achsen darstellen
+
+=== Kamera bewegen (Clipping) ===
+
+* rein- und rauszoomen
+
+=== Objekttransformationen ===
+
+* drehen nach links und rechts
+
+* skalieren 
+
+* rotieren (drehen um eine Achse)
