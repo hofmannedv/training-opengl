@@ -1,0 +1,52 @@
+= Kursablauf
+
+* Vorstellungsrunde
+** Ziele und Erwartungen
+** Vorkenntnisse
+* Zeiten
+* Umgang miteinander
+* Programmcode
+** Github-Repository
+** eigenes Projekt
+
+= OpenGL
+== Begriff
+== Historie
+== Hintergründe
+== Einsatzfeld
+== prominente Beispiele
+== Referenzmaterial
+== Aufbau
+* Fixed Pipeline
+* Programmable Pipeline
+
+= Arbeits- und Entwicklungsumgebung
+
+* Virtuelle Maschine als als Testsystem
+* Debian GNU/Linux als Basissystem
+* Python 3
+* OpenGL
+* Bibliotheken, die hier genutzt werden
+** PyGame
+** OpenGL
+
+= OpenGL-Denkwelt
+
+* Ausgabefenster
+* Auflösung
+* Darstellungsmodus
+** orthographisch
+** perspektivisch
+* Interaktion
+** Fenster schließen ohne ESC
+** Tastaturintegration
+** Fenster schließen mit ESC
+** Bewegungstasten
+* OpenGL-Kommandos
+** Initialisierung der Ausgabeumgebung
+** Grundobjekte
+*** Punkte
+*** Linie
+*** Quadrat
+*** Polygon
+*** Dreiecke
