@@ -1,26 +1,47 @@
-= Kursablauf
+Grundlagen OpenGL
+=================
+:author: Frank Hofmann
+:backend: slidy
+:max-width: 94%
+:icons:
 
-* Vorstellungsrunde
-** Ziele und Erwartungen
-** Vorkenntnisse
-* Zeiten
-* Umgang miteinander
+== Inhalt ==
+
+* Ablauf der Schulung
+* OpenGL im Überblick
+* Arbeits- und Entwicklungsumgebung
+* OpenGL-Denkwelt
+
+== Ablauf der Schulung ==
+
+* Willkommen im Kurs, Vorstellungsrunde
+
+* Kursablauf
+** Zeiten und Pausen
+** Umgang miteinander
+** Feedback und Fragen
+
+* Vorkenntnisse, Ziele und Erwartungen
+
+* Systemumgebung und genutzte Software im Kurs
+
 * Programmcode
 ** Github-Repository
 ** eigenes Projekt
 
-= OpenGL
-== Begriff
-== Historie
-== Hintergründe
-== Einsatzfeld
-== prominente Beispiele
-== Referenzmaterial
-== Aufbau
-* Fixed Pipeline
-* Programmable Pipeline
+== OpenGL im Überblick ==
 
-= Arbeits- und Entwicklungsumgebung
+* Begriff
+* Historie
+* Hintergründe
+* Einsatzfeld
+* prominente Beispiele
+* Referenzmaterial
+* Aufbau
+** Fixed Pipeline
+** Programmable Pipeline
+
+== Arbeits- und Entwicklungsumgebung ==
 
 * Virtuelle Maschine als als Testsystem
 * Debian GNU/Linux als Basissystem
@@ -30,7 +51,7 @@
 ** PyGame
 ** OpenGL
 
-= OpenGL-Denkwelt
+== OpenGL-Denkwelt ==
 
 * Ausgabefenster
 * Auflösung
