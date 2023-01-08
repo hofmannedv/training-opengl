@@ -8,8 +8,8 @@ Grundlagen OpenGL
 == Inhalt ==
 
 * Ablauf der Schulung
-* OpenGL im Überblick
 * Arbeits- und Entwicklungsumgebung
+* OpenGL im Überblick
 * OpenGL-Denkwelt
 
 == Ablauf der Schulung ==
@@ -99,17 +99,27 @@ und gruppierten Objekten
 
 * Liste von Spielen, die OpenGL benutzen (https://www.pcgamingwiki.com/wiki/List_of_OpenGL_games)
 
-=== Referenzmaterial ===
+=== Referenzmaterial und Links ===
 
-== Arbeits- und Entwicklungsumgebung ==
+* Creative Coding, https://project-awesome.org/terkelg/awesome-creative-coding
 
-* Virtuelle Maschine als als Testsystem
-* Debian GNU/Linux als Basissystem
-* Python 3
-* OpenGL
-* Bibliotheken, die hier genutzt werden
-** PyGame
-** OpenGL
+* OpenGL, https://www.opengl.org/
+
+* OpenGL/GLUT Python/C++ , https://codeloop.org/python-opengl/
+
+* Tastenbezeichnungen in PyGame, https://www.pygame.org/docs/ref/key.html
+
+* OpenGL Wikibooks (C/C++), https://en.wikibooks.org/wiki/OpenGL_Programming
+
+* OpenGL Tutorial (C/C++), http://www.zeuscmd.com/tutorials/opengl/index.php
+
+* OpenGL Tutorial (C/C++), http://nehe.gamedev.net/tutorial/lessons_01__05/22004/
+
+* OpenGL/pyopengl Development, https://pyopengl.sourceforge.net/documentation/index.html
+
+* OpenGL with PyOpenGL introduction and creation of Rotating Cube, https://pythonprogramming.net/opengl-rotating-cube-example-pyopengl-tutorial/
+
+* Python & OpenGL for Scientific Visualization, https://github.com/rougier/python-opengl
 
 == OpenGL-Denkwelt ==
 
