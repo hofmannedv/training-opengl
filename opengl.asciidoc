@@ -76,6 +76,10 @@ Webbrowser (https://www.khronos.org/webgl/)
 ** Vulkan (https://www.vulkan.org/)
 ** Vergleich zwischen OpenGL und Vulkan (https://www.educba.com/opengl-vs-vulkan/)
 
+* Aufbau:
+** Version 1.x: Fixed Pipeline
+** ab Version 2.x Programmable Pipeline
+
 === Einsatzfeld ===
 
 * Gestaltung von 3D-Szenen in Echtzeit
@@ -95,11 +99,7 @@ und gruppierten Objekten
 
 * Liste von Spielen, die OpenGL benutzen (https://www.pcgamingwiki.com/wiki/List_of_OpenGL_games)
 
-
-* Referenzmaterial
-* Aufbau
-** Fixed Pipeline
-** Programmable Pipeline
+=== Referenzmaterial ===
 
 == Arbeits- und Entwicklungsumgebung ==
 
