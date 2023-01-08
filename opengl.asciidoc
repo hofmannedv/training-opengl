@@ -24,6 +24,14 @@ Grundlagen OpenGL
 * Vorkenntnisse, Ziele und Erwartungen
 
 * Systemumgebung und genutzte Software im Kurs
+** VirtualBox mit Debian GNU/Linux (https://www.debian.org/)
+** installiert sind darin: 
+*** Python 3 (https://www.python.org/)
+*** Bibliothek PyGame (https://www.pygame.org/wiki/about)
+*** Bibliothek OpenGL für Python (https://pyopengl.sourceforge.net/)
+*** Bibliothek Free OpenGL Utility Toolkit (FreeGlut) (https://freeglut.sourceforge.net/)
+*** Versionskontrollsystem Git (https://git-scm.com/)
+*** GVim (https://packages.debian.org/bullseye/vim-gtk3)
 
 * Programmcode
 ** Github-Repository
