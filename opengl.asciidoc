@@ -81,6 +81,8 @@ Webbrowser (https://www.khronos.org/webgl/)
 * Nachfolger:
 ** Vulkan (https://www.vulkan.org/)
 ** Vergleich zwischen OpenGL und Vulkan (https://www.educba.com/opengl-vs-vulkan/)
+** OpenGL-basierte Projekte auf die Vulkan-API umbauen
+(https://www.khronos.org/assets/uploads/developers/library/2016-vulkan-devday-uk/10-Porting-to-Vulkan.pdf)
 
 * Aufbau:
 ** Version 1.x: Fixed Pipeline
