@@ -87,6 +87,7 @@ Webbrowser (https://www.khronos.org/webgl/)
 * Aufbau:
 ** Version 1.x: Fixed Pipeline
 ** ab Version 2.x Programmable Pipeline
+** Bild zum Vergleich: https://sites.google.com/site/face2manoj/opengl/pipeline
 
 === Einsatzfeld ===
 
